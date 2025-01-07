@@ -12,7 +12,7 @@ A simple and interactive **Rock Paper Scissors** game built using **Next.js** an
 
 ## Demo
 
-Add a screenshot or GIF of your app here (if available).
+Open [https://rock-paper-scissors-tau-two.vercel.app/](https://rock-paper-scissors-tau-two.vercel.app/) in your browser to view the app.
 
 ## Getting Started
 
