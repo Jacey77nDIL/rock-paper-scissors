@@ -25,7 +25,7 @@ Add a screenshot or GIF of your app here (if available).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jacey77n/rock-paper-scissors.git
+   git clone https://github.com/Jacey77nDIL/rock-paper-scissors.git
    cd rock-paper-scissors
 
 2. Install dependencies
